@@ -1,0 +1,3 @@
+carpeta/
+a.config
+# con esta opcion vamos a hacer que git me ignore el archivo a.config
